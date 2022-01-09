@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheNittam?tab=repositories](https://github.com/TheNittam?tab=repositories)
 
-- 📝 I regularly write articles on [https://nirmaldahal.com.np](https://nirmaldahal.com.np)
+- 📝 I regularly write articles on [https://thenittam.medium.com](https://thenittam.medium.com)
 
 - 💬 Ask me about **Cyber Security, Python, PHP, JS**
 
