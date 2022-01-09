@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nirmal Dahal aka #Nittam</h1>
-<h3 align="center">A passionate cyber security enthusiasts from Nepal</h3>
+<h3 align="center">A passionate cyber security enthusiast from Nepal</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thenittam" alt="thenittam" /></a> </p>
 
