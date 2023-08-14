@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ReGen](https://github.com/TheNittam/ReGen)
 
-- 📝 I regularly write articles on [https://thenittam.medium.com](https://nirmaldahal.com.np)
+- 📝 I regularly write articles on [https://nirmaldahal.com.np](https://nirmaldahal.com.np)
 
 - 💬 Ask me about **Cyber Security, Python, PHP, JS**
 
