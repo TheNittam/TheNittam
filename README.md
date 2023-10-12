@@ -3,7 +3,7 @@
 
 <br><br>
 
-- 🔭 I’m currently working on [ReGen](https://github.com/TheNittam/ReGen)
+- 🔭 I’m currently working on [Hardware Hacking Series](https://nirmaldahal.com.np/series/hardware-hacking/)
 
 - 📝 I regularly write articles on [https://nirmaldahal.com.np](https://nirmaldahal.com.np)
 
