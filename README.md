@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://nirmaldahal.com.np](https://nirmaldahal.com.np)
 
-- 💬 Ask me about **Cyber Security, Python, PHP, JS**
+- 💬 Ask me about **Cyber Security, Python, PHP, JS, Node, GoLang, ReactJS, ShadCn**
 
 - 📫 How to reach me **whois@nirmaldahal.com.np**
 
