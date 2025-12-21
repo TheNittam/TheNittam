@@ -5,8 +5,6 @@
 
 - 📝 I regularly write articles on [https://nirmaldahal.com.np](https://nirmaldahal.com.np)
 
-- 🔭 I was recently working on [Hardware Hacking Series](https://nirmaldahal.com.np/posts)
-
 - 💬 Ask me about **Cyber Security, Python, PHP, JS, Node, GoLang, ReactJS, ShadCn**
 
 - 📫 How to reach me **whois@nirmaldahal.com.np**
