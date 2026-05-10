@@ -5,7 +5,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I specialize in uncovering and mitigating security vulnerabilities across modern applications, infrastructure and cloud environments. My work bridges **offensive security and real-world risk reduction**, enabling organizations to stay ahead of evolving threats.
 
@@ -13,18 +13,18 @@ As a **security researcher**, I focus on identifying critical flaws, validating 
 
 ---
 
-## ⚔️ Expertise
+## Expertise
 
-- 🔴 Offensive Security (Web, API, Network)
-- 🧪 Vulnerability Research & Exploit Analysis
-- 🛡️ Security Assessments & Penetration Testing
-- 🔵 Defensive Security & Hardening
-- ☁️ Cloud & Infrastructure Security
-- 📊 Governance, Risk & Compliance (GRC)
+- Offensive Security (Web, API, Network)
+- Vulnerability Research & Exploit Analysis
+- Security Assessments & Penetration Testing
+- Defensive Security & Hardening
+- Cloud & Infrastructure Security
+- Governance, Risk & Compliance (GRC)
 
 ---
 
-## 🧪 Research Focus
+## Research Focus
 
 - Advanced **Cross-Site Scripting (XSS)** techniques  
 - Authentication & session management flaws  
@@ -34,14 +34,14 @@ As a **security researcher**, I focus on identifying critical flaws, validating 
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 **Languages:**  
 `Python` `JavaScript` `Bash` `PHP` `C`
 
 ---
 
-## 📚 Thought Leadership
+## Thought Leadership
 
 - Publishing technical writeups on vulnerability discovery & exploitation  
 - Contributing to responsible disclosure initiatives  
@@ -58,20 +58,8 @@ As a **security researcher**, I focus on identifying critical flaws, validating 
 
 ---
 
-## ⚡ Perspective
-
-> "Security is not a feature — it's a continuous process of validation, adaptation and resilience."
-
----
-
-## 📈 GitHub Insights
+## GitHub Insights
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheNittam&show_icons=true&theme=tokyonight)
-
----
-
-## 🧩 Beyond Security
-
-I break systems to understand them and rebuild them stronger.
 
 ---
